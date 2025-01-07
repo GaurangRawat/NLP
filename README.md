@@ -1,2 +1,2 @@
 # NLP
-Natural Language Processing for email spam detection , sentiment analysis fraud detections , Resume checkers and Grammarly also.
+Natural Language Processing used for Email spam detection , Sentiment analysis , Fraud detections , Resume checkers and in Grammarly also.
